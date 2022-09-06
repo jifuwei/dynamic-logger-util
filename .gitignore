@@ -1,0 +1,13 @@
+.project
+.settings
+/build
+/target/
+.idea/
+*.iml
+*.report
+.DS_Store
+start/.DS_Store
+start/src/.DS_Store
+.iml
+target/
+*.iml
