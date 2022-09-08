@@ -11,6 +11,13 @@
 - 阶梯配置支持：默认全局设置兜底，又可以支持局部 Logger 放/限流
 - 人性化操作：与操作界面，方便修改
 
+### 使用方法
+```java
+// spring 容器可直接注册为 bean 使用
+DynamicLoggerConfiguration config = new DynamicLoggerConfiguration();
+config.init();
+```
+
 ### 技术实现
 slf4j( log4j2/logback/... ) + 配置中心( Apollo )
 
