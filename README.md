@@ -22,10 +22,10 @@ config.init();
 slf4j( log4j2/logback/... ) + 配置中心( Apollo )
 
 #### 设计图：
-![img.png](img.png)
+![img](https://user-images.githubusercontent.com/16236899/189108352-69951ee4-1c4c-49d2-a8c5-bfd8ebca6c43.png)
 
 ### 关注
 - 个人技术博客：https://jifuwei.github.io/
 - 原创"干货"，公众号：是咕咕鸡
 
-![img.png](qrcode_for_gh_e51f1c0b8df7_258.jpg)
+![qrcode_for_gh_e51f1c0b8df7_258](https://user-images.githubusercontent.com/16236899/189108197-db0b4cee-33f1-4766-bbd2-be9a24624d8e.jpg)
