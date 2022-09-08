@@ -141,7 +141,7 @@ public class DynamicLoggerConfiguration implements ConfigChangeListener {
                 for (Logger logger : loggers) {
                     if (Pattern.matches(name, logger.getName())) {
                         logger.setLevel(newLevel);
-                        log.info("update {} logger level {}", name, level);
+                        log.info("### update {} logger level {}", logger.getName(), level);
                         flag = true;
                     }
                 }
